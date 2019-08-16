@@ -17,3 +17,22 @@ C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_Exercise
 C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.csproj.CopyComplete
 C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.dll
 C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.pdb
+C:\Users\steve\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\bin\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.deps.json
+C:\Users\steve\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\bin\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.runtimeconfig.json
+C:\Users\steve\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\bin\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.runtimeconfig.dev.json
+C:\Users\steve\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\bin\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.dll
+C:\Users\steve\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\bin\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.pdb
+C:\Users\steve\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\bin\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Core.dll
+C:\Users\steve\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\bin\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Infrastructure.dll
+C:\Users\steve\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\bin\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Core.pdb
+C:\Users\steve\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\bin\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Infrastructure.pdb
+C:\Users\steve\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.csprojAssemblyReference.cache
+C:\Users\steve\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.RazorAssemblyInfo.cache
+C:\Users\steve\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.RazorAssemblyInfo.cs
+C:\Users\steve\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.AssemblyInfoInputs.cache
+C:\Users\steve\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.AssemblyInfo.cs
+C:\Users\steve\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.RazorTargetAssemblyInfo.cache
+C:\Users\steve\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.csproj.CopyComplete
+C:\Users\steve\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.dll
+C:\Users\steve\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.pdb

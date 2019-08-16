@@ -7,7 +7,7 @@ using W4D2_ExerciseLogAPI.Core.Models;
 
 namespace W4D2_ExerciseLogAPI.Infrastructure.Data
 {
-    class AppDBContext:DbContext
+    public class AppDBContext:DbContext
     {
         public DbSet<User> Users;
         public DbSet<Activity> Activities;

@@ -7,5 +7,8 @@ namespace W4D2_ExerciseLogAPI.APIModels
 {
     public class UserModel
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public List<ActivityModel> Activities { get; set; }
     }
 }

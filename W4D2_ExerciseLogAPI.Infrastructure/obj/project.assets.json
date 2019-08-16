@@ -4630,23 +4630,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Steven Schoor\\.nuget\\packages\\": {},
+    "C:\\Users\\steve\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Infrastructure\\W4D2_ExerciseLogAPI.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\steve\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Infrastructure\\W4D2_ExerciseLogAPI.Infrastructure.csproj",
       "projectName": "W4D2_ExerciseLogAPI.Infrastructure",
-      "projectPath": "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Infrastructure\\W4D2_ExerciseLogAPI.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Steven Schoor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\steve\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Infrastructure\\W4D2_ExerciseLogAPI.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\steve\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Steven Schoor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\steve\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4659,8 +4659,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\W4D2_ExerciseLogAPI.Core.csproj": {
-              "projectPath": "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\W4D2_ExerciseLogAPI.Core.csproj"
+            "C:\\Users\\steve\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\W4D2_ExerciseLogAPI.Core.csproj": {
+              "projectPath": "C:\\Users\\steve\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\W4D2_ExerciseLogAPI.Core.csproj"
             }
           }
         }

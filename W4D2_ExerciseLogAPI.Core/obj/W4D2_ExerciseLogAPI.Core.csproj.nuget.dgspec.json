@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\W4D2_ExerciseLogAPI.Core.csproj": {}
+    "C:\\Users\\steve\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\W4D2_ExerciseLogAPI.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\W4D2_ExerciseLogAPI.Core.csproj": {
+    "C:\\Users\\steve\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\W4D2_ExerciseLogAPI.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\W4D2_ExerciseLogAPI.Core.csproj",
+        "projectUniqueName": "C:\\Users\\steve\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\W4D2_ExerciseLogAPI.Core.csproj",
         "projectName": "W4D2_ExerciseLogAPI.Core",
-        "projectPath": "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\W4D2_ExerciseLogAPI.Core.csproj",
-        "packagesPath": "C:\\Users\\Steven Schoor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\obj\\",
+        "projectPath": "C:\\Users\\steve\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\W4D2_ExerciseLogAPI.Core.csproj",
+        "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\steve\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Steven Schoor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\steve\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
