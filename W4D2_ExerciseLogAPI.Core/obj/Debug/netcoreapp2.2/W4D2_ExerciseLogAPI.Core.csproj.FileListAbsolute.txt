@@ -1,0 +1,9 @@
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Core\bin\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Core.deps.json
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Core\bin\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Core.dll
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Core\bin\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Core.pdb
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Core\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Core.csprojAssemblyReference.cache
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Core\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Core\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Core.AssemblyInfoInputs.cache
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Core\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Core.AssemblyInfo.cs
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Core\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Core.dll
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Core\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Core.pdb

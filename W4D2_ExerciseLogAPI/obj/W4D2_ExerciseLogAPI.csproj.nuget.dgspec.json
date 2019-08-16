@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\W4D2_ExerciseLogAPI.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\W4D2_ExerciseLogAPI.Core.csproj",
+        "projectName": "W4D2_ExerciseLogAPI.Core",
+        "projectPath": "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\W4D2_ExerciseLogAPI.Core.csproj",
+        "packagesPath": "C:\\Users\\Steven Schoor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Steven Schoor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Infrastructure\\W4D2_ExerciseLogAPI.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Infrastructure\\W4D2_ExerciseLogAPI.Infrastructure.csproj",
+        "projectName": "W4D2_ExerciseLogAPI.Infrastructure",
+        "projectPath": "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Infrastructure\\W4D2_ExerciseLogAPI.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Steven Schoor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Steven Schoor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\W4D2_ExerciseLogAPI.Core.csproj": {
+                "projectPath": "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\W4D2_ExerciseLogAPI.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.csproj",
+        "projectName": "W4D2_ExerciseLogAPI",
+        "projectPath": "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.csproj",
+        "packagesPath": "C:\\Users\\Steven Schoor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Steven Schoor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\W4D2_ExerciseLogAPI.Core.csproj": {
+                "projectPath": "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Core\\W4D2_ExerciseLogAPI.Core.csproj"
+              },
+              "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Infrastructure\\W4D2_ExerciseLogAPI.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Steven Schoor\\Documents\\DevFolder\\LCA_W4D2_ExerciseLogAPI\\W4D2_ExerciseLogAPI.Infrastructure\\W4D2_ExerciseLogAPI.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

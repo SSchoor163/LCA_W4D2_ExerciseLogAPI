@@ -1,0 +1,14 @@
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Infrastructure\bin\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Core.dll
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Infrastructure\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Infrastructure\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Infrastructure\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Infrastructure\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Infrastructure\bin\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Infrastructure.deps.json
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Infrastructure\bin\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Infrastructure.runtimeconfig.json
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Infrastructure\bin\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Infrastructure.runtimeconfig.dev.json
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Infrastructure\bin\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Infrastructure.dll
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Infrastructure\bin\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Infrastructure.pdb
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Infrastructure\bin\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Core.pdb
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Infrastructure\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Infrastructure.csproj.CopyComplete
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Infrastructure\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Infrastructure.dll
+C:\Users\Steven Schoor\Documents\DevFolder\LCA_W4D2_ExerciseLogAPI\W4D2_ExerciseLogAPI.Infrastructure\obj\Debug\netcoreapp2.2\W4D2_ExerciseLogAPI.Infrastructure.pdb
