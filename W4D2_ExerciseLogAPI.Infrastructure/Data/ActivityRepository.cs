@@ -12,9 +12,9 @@ namespace W4D2_ExerciseLogAPI.Infrastructure.Data
     public class ActivityRepository : IActivityRepository
     {
         private readonly AppDBContext _dbContext;
-        public ActivityRepository(AppDBContext DbContext)
+        public ActivityRepository(AppDBContext AppDBContext)
         {
-            _dbContext = DbContext;
+            _dbContext = AppDBContext;
         }
 
         public Activity Add(Activity newActivity) //create
@@ -27,6 +27,7 @@ namespace W4D2_ExerciseLogAPI.Infrastructure.Data
         {
             var activity = _dbContext.Activities
                         .Include(u => u.ActivityType)
+                        .Include(u=>u.User)
                         .FirstOrDefault(u => u.Id == id);
             if (activity == null) return null;
             return activity;
@@ -50,6 +51,7 @@ namespace W4D2_ExerciseLogAPI.Infrastructure.Data
         {
             return _dbContext.Activities
                 .Include(a=>a.ActivityType)
+                .Include(a=>a.User)
                 .ToList();
         }
     }

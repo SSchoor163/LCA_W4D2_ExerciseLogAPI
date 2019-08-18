@@ -5,7 +5,7 @@ using W4D2_ExerciseLogAPI.Core.Models;
 
 namespace W4D2_ExerciseLogAPI.Core.Services
 {
-    public class UserService
+    public class UserService : IUserService
     {
         private IUserRepository _userRepo;
 

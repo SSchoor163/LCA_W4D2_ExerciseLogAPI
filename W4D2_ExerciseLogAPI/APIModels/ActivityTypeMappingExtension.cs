@@ -28,10 +28,12 @@ namespace W4D2_ExerciseLogAPI.APIModels
         }
         public static List<ActivityTypeModel> ToAPIModels(this List<ActivityType> activityTypes)
         {
+            if (activityTypes == null) return null;
             return activityTypes.Select(a => a.ToAPIModel()).ToList();
         }
         public static List<ActivityType> ToDomainModels(this List<ActivityTypeModel> activityTypes)
         {
+            if (activityTypes == null) return null;
             return activityTypes.Select(a => a.ToDomainModel()).ToList();
         }
     }

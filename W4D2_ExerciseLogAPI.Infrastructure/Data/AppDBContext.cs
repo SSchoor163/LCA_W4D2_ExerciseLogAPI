@@ -9,14 +9,14 @@ namespace W4D2_ExerciseLogAPI.Infrastructure.Data
 {
     public class AppDBContext:DbContext
     {
-        public DbSet<User> Users;
-        public DbSet<Activity> Activities;
-        public DbSet<ActivityType> ActivityTypes;
+        public DbSet<User> Users { get; set; }
+        public DbSet<Activity> Activities { get; set; }
+        public DbSet<ActivityType> ActivityTypes { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             DirectoryInfo ExecutiveDirectory = new DirectoryInfo(AppContext.BaseDirectory);
-            DirectoryInfo ProjectBase = ExecutiveDirectory.Parent.Parent.Parent;
-            string DatabaseFile = Path.Combine(ProjectBase.FullName, "ExerciseLog.db");
+            DirectoryInfo ProjectBase = ExecutiveDirectory.Parent.Parent.Parent.Parent;
+           string DatabaseFile = Path.Join(ProjectBase.FullName, "W4D2_ExerciseLogAPI.Infrastructure", "ExerciseLog.db");
             optionsBuilder.UseSqlite("Data Source=" + DatabaseFile);
         }
 

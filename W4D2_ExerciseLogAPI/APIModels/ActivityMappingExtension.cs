@@ -18,7 +18,7 @@ namespace W4D2_ExerciseLogAPI.APIModels
                 Duration = activity.Duration,
                 Notes = activity.Notes,
                 ActivityTypeId = activity.ActivityTypeId,
-                ActivityType = $"{activity.ActivityType}",
+                ActivityType = $"{activity.ActivityType.Name}",
                 UserId = activity.UserId,
                 User = $"{activity.User.Name}"
             };
@@ -38,10 +38,13 @@ namespace W4D2_ExerciseLogAPI.APIModels
         }
         public static List<ActivityModel>ToAPIModels(this List<Activity> activities)
         {
-            return activities.Select(a => a.ToAPIModel()).ToList();
+            if (activities == null) return null;
+            return activities
+                .Select(a => a.ToAPIModel()).ToList();
         }
         public static List<Activity> ToDomainModels(this List<ActivityModel> activityModels)
         {
+            if (activityModels == null) return null;
             return activityModels.Select(a => a.ToDomainModel()).ToList();
         }
         

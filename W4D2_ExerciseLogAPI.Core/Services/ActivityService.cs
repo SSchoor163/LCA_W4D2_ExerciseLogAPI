@@ -5,9 +5,10 @@ using System.IO;
 using System.Text;
 using W4D2_ExerciseLogAPI.Core.Models;
 
+
 namespace W4D2_ExerciseLogAPI.Core.Services
 {
-    class ActivityService : IActivityService
+    public class ActivityService : IActivityService
     {
         private IActivityRepository _activityRepository;
         private IActivityTypeRepository _activityTypeRepository;
@@ -29,7 +30,9 @@ namespace W4D2_ExerciseLogAPI.Core.Services
         }
         public Activity Get(int id) //read
         {
-            return _activityRepository.Get(id);
+            return _activityRepository
+             
+                .Get(id);
         }
         public Activity Update(Activity updatedActivity) //update
         {

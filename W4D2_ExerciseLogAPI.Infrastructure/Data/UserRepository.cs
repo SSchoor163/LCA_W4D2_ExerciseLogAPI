@@ -27,6 +27,7 @@ namespace W4D2_ExerciseLogAPI.Infrastructure.Data
         {
             var user = _dbContext.Users
                         .Include(u=>u.Activities)
+                        .ThenInclude(activity=>activity.ActivityType)
                         .FirstOrDefault(u => u.Id == id);
             if (user == null) return null;
             return user;

@@ -13,7 +13,7 @@ namespace W4D2_ExerciseLogAPI.Core.Models
         public DateTime Date { get; set; }
         public int ActivityTypeId { get; set; }
     
-        public User ActivityType { get; set; }
+        public ActivityType ActivityType { get; set; }
         public double Duration { get; set; }
         public double Distance { get; set; }
         public int UserId { get; set; }
