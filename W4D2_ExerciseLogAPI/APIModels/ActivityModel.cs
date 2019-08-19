@@ -13,11 +13,11 @@ namespace W4D2_ExerciseLogAPI
         [Required]
         public DateTime Date { get; set; }
 
-        [Required]
+        [Required(ErrorMessage ="your a butt")]
         public int ActivityTypeId { get; set; }
         public string ActivityType { get; set; }
 
-        [Required]
+        
         public double Duration { get; set; }
         public double Distance { get; set; }
 

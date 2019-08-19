@@ -23,7 +23,11 @@ namespace W4D2_ExerciseLogAPI.Core.Services
             var activityType = _activityTypeRepository.Get(newActivity.ActivityTypeId);
             if(activityType.RecordType == RecordType.DurationAndDistance && newActivity.Distance <= 0)
             {
-                throw new Exception("Duration must be greater than 0 for this activity");
+                throw new Exception("You must supply a distance for this activity.");
+            }
+            if(newActivity.Duration <= 0)
+            {
+                throw new ApplicationException("You must supply a Duration for this activity.");
             }
             _activityRepository.Add(newActivity);
             return newActivity;
